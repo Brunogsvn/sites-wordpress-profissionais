@@ -7,17 +7,17 @@ Lista de sites que desenvolvi/participei usando WordPress.
 - Tipo: Site institucional
 - Papel: Desenvolvimento e personalização do tema, criação de páginas, ajustes de layout responsivo.
 - Tecnologias: WordPress, PHP, HTML, CSS, JavaScript
-- Link: https:[//](https://etecjardimangela.com.br/2/)
+- Link: https://etecjardimangela.com.br/
 
 ## Castellón Movelaria (Site Portifólio)
 
 - Tipo: Site institucional e catálogo de móveis planejados
 - Papel: Criação e personalização de páginas, configuração de plugins e organização do portfólio.
 - Tecnologias: WordPress, Elementor, PHP, HTML, CSS, JavaScript
-- Link: https:[//](https://castellonmovelaria.com.br/)
+- Link: https://castellonmovelaria.com.br/
 
   ## Castellón Movelaria (Site para chamar atenção de clientes e parceiros)
 - Tipo: Site promocional
 - Papel: Criação e personalização de páginas, configuração de plugins e organização de leads.
 - Tecnologias: WordPress, Elementor, PHP, HTML, CSS, JavaScript, MySQL
-- Link: [//](https://castellonprojetos.com.br/)
+- Link: https://castellonprojetos.com.br/
